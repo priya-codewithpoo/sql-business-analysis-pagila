@@ -98,5 +98,7 @@ Each file includes:
 * This project focuses on **ad-hoc business analysis**, where direct queries and CTE-style logic are more suitable.
 
 ---
+## 🏁 Conclusion
 
-✨ *This project is designed to reflect how SQL is used in real analytics roles, not just academic exercises.*
+This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project reflects practical analytics work commonly performed in corporate environments.
+
