@@ -8,7 +8,7 @@ This project uses PostgreSQL to analyze the Pagila DVD Rental dataset. Advanced 
 
 ## 🔍 Project Overview
 
-This project demonstrates **corporate-level SQL analysis** using the **Pagila (DVD Rental) database**. The goal was to simulate **real-world business questions** and solve them using advanced SQL concepts, focusing on *insights* rather than just queries.
+This project demonstrates **hands-on SQL analysis simulating real-world business scenarios** using the **Pagila (DVD Rental) database**. The goal was to simulate **real-world business questions** and solve them using advanced SQL concepts, focusing on *insights* rather than just queries.
 
 The project is structured as **8 independent, high-impact business questions**, each written in a separate SQL file for clarity and professionalism. Some questions are split into multiple files when analysis requires both detail and summary.
 
@@ -82,8 +82,8 @@ Each file includes:
 7. **Customer Segmentation**
    Segment customers into Gold, Silver, and Bronze based on spending. Split into:
 
-   * Detail file → shows individual customer classification
-   * Summary file → aggregates counts and revenue per segment
+   * Detail(individual) file → shows individual customer classification
+   * Summary(aggregated) file → aggregates counts and revenue per segment
 
 8. **Anomaly Detection**
    Identify unusual customer behavior such as long rentals or abnormal activity.
@@ -94,29 +94,14 @@ Each file includes:
 
 * Translating business problems into SQL queries
 * Choosing appropriate SQL techniques based on the problem
-* Writing clean, readable, and scalable SQL
+* Writing clean, readable, and scalable SQL queries
 * Understanding when advanced features (like window functions) add value
-
----
-
-## 📝 Notes
-
-* This project focuses on **ad-hoc business analysis**, where direct queries and CTE-style logic are more suitable.
-
----
-
-## 🔮 Future Scope
-
-- Incorporate real-time rental data for dynamic dashboards
-  
-- Automate anomaly detection alerts
-  
-- Extend analysis to marketing campaigns and promotions
 
 ---
 
 ## 🏁 Conclusion
 
-This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project reflects practical analytics work commonly performed in corporate environments.
+This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
+
 
 
