@@ -3,7 +3,7 @@
 ## Customer Segmentation Summary
 <img width="681" height="144" alt="Customer_Segmentation_Summary" src="https://github.com/user-attachments/assets/a32b4874-bc7a-47e5-ba37-4def287e32ec" />
 
-**Key Insight: Analyzed $67k+ in total revenue to identify that the 'Silver' customer segment drives 73% of business volume, flagging a critical target for retention marketing.**
+**Aggregated SQL summary of customer segments, identifying 'Silver' users as the primary revenue driver ($49k+).**
 
 ---
 
@@ -109,6 +109,7 @@ Each file includes:
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
+
 
 
 
