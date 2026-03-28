@@ -9,21 +9,21 @@
 
 ## 💡 Project Summary
 
-This project uses PostgreSQL to analyze the Pagila DVD Rental dataset. Advanced SQL queries and business-driven metrics provide actionable insights into customer, store, and category performance.
+This project uses PostgreSQL to analyze retail operations and customer behavior, generating actionable insights on revenue drivers, customer segmentation, and business performance using advanced SQL techniques.
 
 ---
 
 ## 🔍 Project Overview
 
-This project focuses on solving realistic retail business challenges using PostgreSQL.I developed an analytical framework to answer 8 high-impact questions regarding revenue growth, customer loyalty, and operational efficiency.
+This project focuses on solving real-world retail business problems using SQL by analyzing customer transactions, store performance, and product trends. It translates complex queries into actionable insights that support revenue growth, customer retention, and operational efficiency.
 
 ---
 
 ## 🎯 Objectives
 
-* Apply SQL to realistic business scenarios
-* Demonstrate strong understanding of joins, aggregations, and window functions
-* Think like a data analyst by connecting SQL output to business decisions
+* Analyze customer behavior to identify high-value segments and revenue drivers
+* Evaluate store, product, and employee performance to uncover optimization opportunities
+* Apply advanced SQL techniques to generate business-critical insights
 
 ---
 
@@ -66,6 +66,8 @@ Each file includes:
 
 ## 📈 Business Questions Covered
 
+The analysis addresses key business problems across customer analytics, revenue trends, and operational performance:
+
 1. **Top 10 Highest-Spending Customers**
    Identify VIP customers based on total spend and rentals.
 
@@ -85,13 +87,22 @@ Each file includes:
    Determine which film categories generate the highest revenue.
 
 7. **Customer Segmentation**
-   Segment customers into Gold, Silver, and Bronze based on spending. Split into:
+- Segmented customers into Gold, Silver, and Bronze tiers based on spending behavior.
 
-   * Detail(individual) file → shows individual customer classification
-   * Summary(aggregated) file → aggregates counts and revenue per segment
-
+- Identified Silver customers as the primary revenue contributors ($49K+), highlighting a mid-tier segment with high business impact
+- Enabled targeted marketing and retention strategies based on customer value
+   
 8. **Anomaly Detection**
    Identify unusual customer behavior such as long rentals or abnormal activity.
+
+---
+
+## 💡 Key Insights
+
+* Identified mid-tier (Silver) customers as the largest revenue contributors, not top-tier customers
+* Found variations in store performance, highlighting opportunities for operational optimization
+* Analyzed category-level profitability to identify high-performing product segments
+* Detected anomalies in rental behavior, improving data quality and risk identification
 
 ---
 
@@ -106,8 +117,7 @@ Each file includes:
 
 ## 🏁 Conclusion
 
-This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
-
+This project demonstrates how advanced SQL can be used to solve real-world business problems by transforming transactional data into actionable insights. It highlights the ability to analyze customer behavior, identify revenue opportunities, and support data-driven business decisions.
 
 
 
